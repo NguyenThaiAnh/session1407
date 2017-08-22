@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/NguyenThaiAnh/session1407#readme",
   "dependencies": {
-    "bcrypt": "^1.0.2"
+    "bcrypt": "^1.0.2",
+    "pg": "^7.1.2"
   }
 }
